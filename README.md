@@ -1,5 +1,5 @@
 
-![Photo of Dimitris Siakavelis](https://dimitris.siakavelis.gr/img/dimitris_siakavelis.jpg)
+![Photo of Dimitris Siakavelis](https://dimitris.siakavelis.gr/img/dimitris_siakavelis.jpg?v=1)
 
 ### Dimitris Siakavelis
 
