@@ -1,4 +1,12 @@
-### Hi there 👋
+
+![Photo of Dimitris Siakavelis](https://dimitris.siakavelis.gr/img/dimitris_siakavelis.jpg)
+
+### Dimitris Siakavelis
+
+Well, this repo is pretty abandoned because I usually find very little time to spend outside work hours.
+Usually I am fully devoted to my full-time job, hence the lack of code in my github repos.
+
+[Find more about Dimitris Siakavelis](https://dimitris.siakavelis.gr)
 
 <!--
 **dimitrisscript/dimitrisscript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
