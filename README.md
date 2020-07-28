@@ -1,24 +1,9 @@
 
-![Photo of Dimitris Siakavelis](https://dimitris.siakavelis.gr/img/dimitris_siakavelis.jpg?v=1)
+<img src="https://dimitris.siakavelis.gr/img/dimitris_siakavelis.jpg?v=1" width="200" height="200" />
 
-### Dimitris Siakavelis
+<h2>Dimitris Siakavelis<h2>
 
-Well, this repo is pretty abandoned because I usually find very little time to spend outside work hours.
-Usually I am fully devoted to my full-time job, hence the lack of code in my github repos.
+<p>Well, this repo is pretty abandoned because I usually find very little time to spend outside work hours.
+Usually I am fully devoted to my full-time job, hence the lack of code in my github repos.</p>
 
-[Find more about Dimitris Siakavelis](https://dimitris.siakavelis.gr)
-
-<!--
-**dimitrisscript/dimitrisscript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://dimitris.siakavelis.gr">Visit my website</a>
