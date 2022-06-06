@@ -7,3 +7,5 @@ Well, this repo is pretty abandoned because I usually find very little time to s
 Usually I am fully devoted to my full-time job, hence the lack of code in my github repos.
 
 <a href="https://dimitris.siakavelis.gr">Visit my website</a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Dimitris+Siakavelis;Developer)](https://git.io/typing-svg)
